@@ -1,0 +1,30 @@
+{
+    "Barbie": {
+        "seats": {
+            "1A": "Booked",
+            "2A": "Booked",
+            "2B": "Booked"
+        }
+    },
+    "Ant-Man": {
+        "seats": {
+            "1A": "Available",
+            "2A": "Available",
+            "2B": "Available"
+        }
+    },
+    "Animal Jatra": {
+        "seats": {
+            "1A": "Available",
+            "2A": "Available",
+            "2B": "Available"
+        }
+    },
+    "The Nun": {
+        "seats": {
+            "1A": "Available",
+            "2A": "Available",
+            "2B": "Available"
+        }
+    }
+}

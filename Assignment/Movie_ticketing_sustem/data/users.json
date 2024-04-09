@@ -1,0 +1,29 @@
+{
+    "sebika": {
+        "username": "sebika",
+        "history": []
+    },
+    "rojina": {
+        "username": "rojina",
+        "history": [
+            {
+                "movie": "Barbie",
+                "seat": "1A"
+            },
+            {
+                "movie": "Barbie",
+                "seat": "2A"
+            }
+        ]
+    },
+    "ram": {
+        "username": "ram",
+        "history": [
+           
+            {
+                "movie": "Barbie",
+                "seat": "2B"
+            }
+        ]
+    }
+}
